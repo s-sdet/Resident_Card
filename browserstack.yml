@@ -1,0 +1,12 @@
+userName: "***"
+accessKey: "***"
+framework: pytest
+app: "***"  # v.892-app-dev-debug
+platforms:
+  - platformName: android
+    deviceName: "Google Pixel 6 Pro"
+    platformVersion: "15.0"
+testObservability: true
+browserstackAutomation: true
+buildName: "browserstack-build-1"
+projectName: "BrowserStack Sample"
